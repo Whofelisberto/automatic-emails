@@ -82,7 +82,7 @@ O servidor padrão do Flask será iniciado em `http://127.0.0.1:5000/`. Abra o n
 
 ## Teste rápido
 
-- Com o servidor rodando, acesse `http://127.0.0.1:5000/`, cole um email clique em analisar e-mail.
+- Com o servidor rodando, acesse `http://127.0.0.1:5000/`, cole um email ou escreva depois clique em analisar e-mail.
 
 ## Arquivos importantes
 
