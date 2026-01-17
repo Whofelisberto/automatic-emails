@@ -46,6 +46,7 @@ pip install -r requirements.txt
 
 ```
 OPENAI_API_KEY=your_openai_api_key
+OBS: Você precisa criar a sua chave esse é o link do site "https://platform.openai.com/settings/organization/api-keys"
 ```
 
 O backend usa `python-dotenv` para carregar variáveis do `.env`.
